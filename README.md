@@ -1,4 +1,4 @@
-# caslculator_app
+# basic_calculator_app_using_FLUTTER
 
 A new Flutter application.
 
