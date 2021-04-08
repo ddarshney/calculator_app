@@ -1,6 +1,9 @@
-# basic_calculator_app_using_FLUTTER
+#  calculator_app_using_FLUTTER
 
 A new Flutter application.
+
+![image](https://user-images.githubusercontent.com/68664921/114101068-d47e2600-98e2-11eb-82ca-eaba557ec884.png)
+
 
 ## Getting Started
 
